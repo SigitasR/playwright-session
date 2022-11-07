@@ -1,0 +1,8 @@
+node_modules/
+app/
+artifacts/
+resources/
+logs/
+.eslintrc.js
+.gitignore
+README.md
